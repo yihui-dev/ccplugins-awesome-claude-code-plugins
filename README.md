@@ -377,6 +377,8 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [WhichModel](https://github.com/Which-Model/whichmodel-mcp) — AI model pricing & recommendation MCP server for Claude Code. Helps choose the right model for every task at the best price. Cross-verified data updated every 4 hours. MCP endpoint: `https://whichmodel.dev/mcp`
 - [Synder Importer MCP](https://github.com/SynderAccounting/gl-importer-plugin) — Official Synder plugin. Import CSV/XLSX accounting data into QuickBooks Online or Xero via the [Synder Importer API](https://importer.synder.com). 19 MCP tools covering imports, field mapping rules, post-import rules, and entity discovery. Bundles the `gl-importer` agent skill.
 - [AgentIQ / MoltAd](https://github.com/chrisgu/agentiq-mcp) — Publisher MCP: list placements, `deliver_ad`, earn credits. https://moltad.net/publishers · https://moltad.net/mcp
+- [Skillry MCP](https://skillry.dev/mcp) — Search, preview, and install curated creative Agent Skills (slides, websites, images, launch videos) directly inside Claude Code, Codex, Cursor, and VS Code. Local stdio (`npx --yes skillry-cli@latest mcp`, npm: `skillry-cli`).
+- [BizPeel MCP](https://bizpeel.com/docs/connect-agent) — Remote Streamable HTTP MCP server (`https://bizpeel.com/mcp`) for verified startup revenue, traffic sources, SEO keywords, ad creatives, and 700+ competitive growth breakdowns. Quick add: `claude mcp add --transport http --scope user bizpeel https://bizpeel.com/mcp`.
 
 ### Thinking & Knowledge Management
 - [thinking-tree](https://github.com/CoralLips/thinking-tree)
